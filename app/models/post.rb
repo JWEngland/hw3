@@ -1,3 +1,3 @@
-lass Post < ApplicationRecord
+class Post < ApplicationRecord
   belongs_to :place
 end
