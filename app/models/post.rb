@@ -1,3 +1,3 @@
 lass Post < ApplicationRecord
-  belongs_to :visited_place
+  belongs_to :place
 end
